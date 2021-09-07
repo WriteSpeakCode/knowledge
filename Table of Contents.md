@@ -5,6 +5,22 @@ This is a non-exhaustive table of contents. It is intended to provide quick entr
 ## Corporate Legal Documents
 
 [[Bylaws]]
-[[501c3 Docu]]
+[[501c3 Documents]]
+[[Board Resolutions]]
 
-## Boa
+## Board Minutes
+
+[[Board Minutes]]
+
+## Finance
+
+## Events
+
+## Curriculum
+
+## Website
+
+## Conference
+
+## Chapters
+

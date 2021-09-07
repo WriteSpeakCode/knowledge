@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Table of Contents.md",
+            "file": "Board Resolutions.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Table of Contents.md",
+                "file": "Board Resolutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,9 @@
   },
   "active": "dc1be9decb53a51f",
   "lastOpenFiles": [
+    "Board Resolutions.md",
     "Table of Contents.md",
+    "Bylaws.md",
     "README.md",
     "Untitled.md"
   ]
