@@ -9,7 +9,7 @@
   },
   "weekly": {
     "format": "gggg MMM DD",
-    "template": "",
+    "template": "templates/Board Minutes Template.md",
     "folder": "Board Minutes",
     "enabled": true
   },

@@ -1,4 +1,4 @@
-# Meeting << 
+# Meeting <% tp.file.creation_date() %> 
 
 ### Attendees
 
@@ -51,7 +51,7 @@ Unprioritized items
 
 ### To Do
 
--     
+- [ ]     
     
 
 **
