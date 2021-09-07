@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Board Resolutions.md",
-            "mode": "source"
+            "file": "Table of Contents.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Board Resolutions.md",
+                "file": "Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,10 @@
   },
   "active": "dc1be9decb53a51f",
   "lastOpenFiles": [
-    "Board Resolutions.md",
     "Table of Contents.md",
+    "Legal Links and Services.md",
+    "501c3 Documents.md",
+    "Board Resolutions.md",
     "Bylaws.md",
     "README.md",
     "Untitled.md"
