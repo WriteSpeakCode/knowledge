@@ -12,7 +12,7 @@ It is created as an [Obsidian](https://obsidian.md) vault - a hyperlinked, exten
  1. Install Obsidian from https://obsidian.md
  2. Check out this repository
  3. Open Obsidian
- 4. Select the `Open folder as vault` option ![[2021-09-06_19-40.png]]
+ 4. Select the `Open folder as vault` option ![2021-09-06_19-40.png](2021-09-06_19-40.png)
  5. Choose the directory where you checked out the repository
 
 ### Basic usage
@@ -32,7 +32,7 @@ Here are some useful commands:
 To set up automatic syncing, turn on community plugins:
 
 1. Open the settings with `C-,`
-2. Go to the `Community Plugins` tab ![[2021-09-06_19-54.png]]
-3. Disable safe mode ![[2021-09-06_19-55.png]]
-4. Confirm disabling safe mode ![[2021-09-06_19-56.png]]
-5.  You should see a list of plugins. If its not already, enable the `Obsidian Git` plugin
+2. Go to the `Community Plugins` tab ![2021-09-06_19-54.png](2021-09-06_19-54.png)
+3. Disable safe mode ![2021-09-06_19-55.png](2021-09-06_19-55.png)
+4. Confirm disabling safe mode ![2021-09-06_19-56.png](2021-09-06_19-56.png)
+5.  You should see a list of plugins. If its not already, enable the `Obsidian Git` plugin**
