@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dc1be9decb53a51f",
+        "id": "37565bd44d5ea841",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Board Minutes.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Board Minutes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dc1be9decb53a51f",
+  "active": "37565bd44d5ea841",
   "lastOpenFiles": [
     "Board Minutes.md",
-    "Board Minutes Board Minutes 2021 Jul 13.md",
-    "Board MinutesBoard Minutes 2021 Jul 27.md",
-    "Board MinutesBoard Minutes 2021 Aug 10.md",
-    "Board Minutes/Board Minutes 2021 Aug 24.md",
-    "Board Minutes/Board Minutes 2021 Sep 7.md",
-    "Board Minutes 2021 Sep 7.md",
-    "Board Minutes/2021/9/7.md",
-    "Board Minutes 9/7/21.md",
-    "Table of Contents.md"
+    "Meeting 22321.md",
+    "Meeting 3921.md",
+    "Meeting 32321.md",
+    "Meeting 4621.md",
+    "Meeting 42021.md",
+    "Meeting 5421.md",
+    "Meeting 51821.md",
+    "Board Minutes Table of Contents.md",
+    "Board Minutes 2021 Jun 15.md"
   ]
 }
