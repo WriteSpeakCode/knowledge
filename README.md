@@ -6,6 +6,10 @@ This is Write/Speak/Codes single repository of knowledge. It contains all inform
 
 It is created as an [Obsidian](https://obsidian.md) vault - a hyperlinked, extensible store system using Markdown files.
 
+### General table of contents
+
+After setting up the vault, please see the [[Table of Contents]] for an overview of navigation (or search for your specific topic, see shortcuts below).
+
  ## How to use it
 
 ### Opening the Vault
@@ -35,4 +39,4 @@ To set up automatic syncing, turn on community plugins:
 2. Go to the `Community Plugins` tab ![2021-09-06_19-54.png](binaries/README/2021-09-06_19-54.png)
 3. Disable safe mode ![2021-09-06_19-55.png](binaries/README/2021-09-06_19-55.png)
 4. Confirm disabling safe mode ![2021-09-06_19-56.png](binaries/README/2021-09-06_19-56.png)
-5.  You should see a list of plugins. If its not already, enable the `Obsidian Git` plugin**
+5.  You should see a list of plugins. If its not already, enable the `Obsidian Git` plugin
