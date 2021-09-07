@@ -2,5 +2,8 @@
   "obsidian-git",
   "table-editor-obsidian",
   "wikilinks-to-mdlinks-obsidian",
-  "note-refactor-obsidian"
+  "note-refactor-obsidian",
+  "calendar",
+  "periodic-notes",
+  "templater-obsidian"
 ]

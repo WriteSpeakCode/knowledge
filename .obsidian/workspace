@@ -7,8 +7,11 @@
         "id": "37565bd44d5ea841",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "templates/Board Minutes Template.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/Board Minutes Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,6 +77,14 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "fec201f4d6fd3be7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -84,15 +96,15 @@
   },
   "active": "37565bd44d5ea841",
   "lastOpenFiles": [
-    "Board Minutes.md",
-    "Meeting 22321.md",
-    "Meeting 3921.md",
-    "Meeting 32321.md",
-    "Meeting 4621.md",
-    "Meeting 42021.md",
-    "Meeting 5421.md",
+    "templates/Untitled.md",
+    "Board Minutes 2021 Apr 6.md",
     "Meeting 51821.md",
-    "Board Minutes Table of Contents.md",
-    "Board Minutes 2021 Jun 15.md"
+    "Meeting 42021.md",
+    "Meeting 32321.md",
+    "Meeting 22321.md",
+    "Meeting 5421.md",
+    "Meeting 4621.md",
+    "Meeting 3921.md",
+    "Bylaws.md"
   ]
 }
