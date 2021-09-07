@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Table of Contents.md",
-            "mode": "preview"
+            "file": "Board Minutes.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Table of Contents.md",
+                "file": "Board Minutes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,15 @@
   },
   "active": "dc1be9decb53a51f",
   "lastOpenFiles": [
-    "Table of Contents.md",
-    "Legal Links and Services.md",
-    "501c3 Documents.md",
-    "Board Resolutions.md",
-    "Bylaws.md",
-    "README.md",
-    "Untitled.md"
+    "Board Minutes.md",
+    "Board Minutes Board Minutes 2021 Jul 13.md",
+    "Board MinutesBoard Minutes 2021 Jul 27.md",
+    "Board MinutesBoard Minutes 2021 Aug 10.md",
+    "Board Minutes/Board Minutes 2021 Aug 24.md",
+    "Board Minutes/Board Minutes 2021 Sep 7.md",
+    "Board Minutes 2021 Sep 7.md",
+    "Board Minutes/2021/9/7.md",
+    "Board Minutes 9/7/21.md",
+    "Table of Contents.md"
   ]
 }

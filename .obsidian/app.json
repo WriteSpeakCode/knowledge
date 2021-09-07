@@ -1,3 +1,5 @@
 {
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
