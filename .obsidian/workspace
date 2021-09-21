@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/Board Minutes Template.md",
-            "mode": "source"
+            "file": "Table of Contents.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Board Minutes Template.md",
+                "file": "Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "37565bd44d5ea841",
   "lastOpenFiles": [
+    "Table of Contents.md",
+    "README.md",
+    "Board Minutes.md",
     "templates/Untitled.md",
     "Board Minutes 2021 Apr 6.md",
     "Meeting 51821.md",
     "Meeting 42021.md",
     "Meeting 32321.md",
     "Meeting 22321.md",
-    "Meeting 5421.md",
-    "Meeting 4621.md",
-    "Meeting 3921.md",
-    "Bylaws.md"
+    "Meeting 5421.md"
   ]
 }
